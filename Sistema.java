@@ -40,5 +40,4 @@ public class Sistema
 		int diferencia = promedio - mejorPago ;
 		return diferencia;
 	}
-	
 }
